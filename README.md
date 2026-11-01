@@ -93,7 +93,7 @@ Here are some areas in which I'm building projects and gaining practical experie
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: [Connect with me](www.linkedin.com/in/shourya-pratap-singh-367a83400)
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/shourya-pratap-singh-367a83400/)
 - 💻 GitHub: [Visit my GitHub](https://github.com/Shourya321-hub)
 - 📧 Email: pratapshourya4@gmail.com 
 
