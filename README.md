@@ -90,19 +90,12 @@ Here are some areas in which I'm building projects and gaining practical experie
 
 ---
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
----
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: [Connect with me](YOUR_LINKEDIN_URL)
-- 💻 GitHub: [Visit my GitHub](https://github.com/YOUR_GITHUB_USERNAME)
-- 📧 Email: YOUR_EMAIL_ADDRESS
+- 💼 LinkedIn: [Connect with me](www.linkedin.com/in/shourya-pratap-singh-367a83400)
+- 💻 GitHub: [Visit my GitHub](https://github.com/Shourya321-hub)
+- 📧 Email: pratapshourya4@gmail.com 
 
 ---
 
